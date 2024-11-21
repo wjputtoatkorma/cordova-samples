@@ -1,5 +1,5 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6">
-  <diagram name="Pagina-1" id="vLor4yaj4mgrBIXiC-UM">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.8.6" pages="3">
+  <diagram name="blokschema" id="vLor4yaj4mgrBIXiC-UM">
     <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
@@ -16,16 +16,16 @@
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-1" target="fw9HSEvNo0UgBsvPUFzQ-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="140" y="270" />
-              <mxPoint x="490" y="270" />
+              <mxPoint x="131" y="270" />
+              <mxPoint x="481" y="270" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-1" value="organisatie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-2" value="accounts" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="20" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-5" target="fw9HSEvNo0UgBsvPUFzQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -33,19 +33,22 @@
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-5" target="fw9HSEvNo0UgBsvPUFzQ-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="330" y="260" />
-              <mxPoint x="520" y="260" />
+              <mxPoint x="321" y="260" />
+              <mxPoint x="511" y="260" />
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-5" target="fw9HSEvNo0UgBsvPUFzQ-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-5" value="klanten" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="261" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-7" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="240" y="152" width="30" height="30" as="geometry" />
+          <mxGeometry x="231" y="152" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-9" value="deelnemer_klant" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-10" target="fw9HSEvNo0UgBsvPUFzQ-9">
           <mxGeometry relative="1" as="geometry" />
@@ -53,68 +56,173 @@
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-10" target="fw9HSEvNo0UgBsvPUFzQ-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-10" target="fw9HSEvNo0UgBsvPUFzQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-10" value="deelnemer" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="660" y="124" width="120" height="60" as="geometry" />
+          <mxGeometry x="651" y="124" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-13" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="430" y="152" width="30" height="30" as="geometry" />
+          <mxGeometry x="421" y="152" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-14" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="575" y="152" width="30" height="30" as="geometry" />
+          <mxGeometry x="566" y="152" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-15" value="een deelnemer kan theoretisch&amp;nbsp;&lt;div&gt;bij&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;meedere klanten werken.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Het mailaddress is de username&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="420" y="184" width="200" height="60" as="geometry" />
+          <mxGeometry x="411" y="64" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-17" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="235" y="48" width="30" height="30" as="geometry" />
+          <mxGeometry x="226" y="48" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-18" value="admin account" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="70" y="18" width="100" height="30" as="geometry" />
+          <mxGeometry x="61" y="18" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-20" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="390" y="50" width="30" height="30" as="geometry" />
+          <mxGeometry x="381" y="50" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-21" target="fw9HSEvNo0UgBsvPUFzQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-21" target="fw9HSEvNo0UgBsvPUFzQ-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-21" target="fw9HSEvNo0UgBsvPUFzQ-55">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-21" value="afname" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="451" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-22" target="fw9HSEvNo0UgBsvPUFzQ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-22" target="fw9HSEvNo0UgBsvPUFzQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="201" y="305" />
+              <mxPoint x="201" y="230" />
+              <mxPoint x="481" y="230" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-22" value="enquete&lt;div&gt;(default = 1)&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="290" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-23" target="fw9HSEvNo0UgBsvPUFzQ-46">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-23" value="questionairequestions" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="430" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-26" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="115" y="398" width="30" height="30" as="geometry" />
+          <mxGeometry x="106" y="398" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-28" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="425" y="318" width="30" height="30" as="geometry" />
+          <mxGeometry x="416" y="318" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-29" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-22" target="fw9HSEvNo0UgBsvPUFzQ-21">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="560" y="200" as="sourcePoint" />
-            <mxPoint x="610" y="150" as="targetPoint" />
+            <mxPoint x="551" y="200" as="sourcePoint" />
+            <mxPoint x="601" y="150" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-30" target="fw9HSEvNo0UgBsvPUFzQ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-30" value="questiongroup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="540" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="540" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-32" target="fw9HSEvNo0UgBsvPUFzQ-23">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-32" value="questiontype" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="50" y="630" width="120" height="60" as="geometry" />
+          <mxGeometry x="41" y="630" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-36" target="fw9HSEvNo0UgBsvPUFzQ-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fw9HSEvNo0UgBsvPUFzQ-36" value="afnamestatus" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="354" width="120" height="60" as="geometry" />
+          <mxGeometry x="271" y="354" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-39" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="536" y="184" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-41" value="n" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="476" y="188" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-42" target="fw9HSEvNo0UgBsvPUFzQ-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="880" y="220" />
+              <mxPoint x="571" y="220" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-42" value="klantafdelingen" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="124" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-44" value="Bij een klant kan mogelijk&amp;nbsp;&lt;div&gt;een afdeling gegeven worden&lt;/div&gt;&lt;div&gt;We kunnen dan afnames&lt;/div&gt;&lt;div&gt;per afdeling / deelnemer&lt;/div&gt;&lt;div&gt;vergelijken&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="850" y="30" width="180" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-46" value="deelnemeranswers" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="651" y="440" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-50" value="De antwoorden op de vragen per&amp;nbsp;&lt;div&gt;afname, per deelnemer&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="780" y="440" width="200" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-52" value="&lt;span style=&quot;text-align: left;&quot;&gt;vw_organisatie_afname_answers&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600.5" y="560" width="221" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-53" value="View welke in de code gebruikt wordt ter vereenvoudiging&lt;div&gt;van de code&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="821.5" y="570" width="330" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-54" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br style=&quot;font-size: 12px;&quot;&gt;&lt;/h1&gt;&lt;p&gt;Een organisatie &lt;i&gt;kan &lt;/i&gt;zijn eigen vragenlijst samenstellen, wij hanteren er maar 1. Een organisatie heeft 1 of meerdere klanten en aanverwante deelnemers.&lt;br&gt;De &lt;b&gt;afname &lt;/b&gt;laat op een moment de deelnemers de vragenlijst invullen. Wij doen 3 &lt;b&gt;afnames&lt;/b&gt; om vooruitgang danwel achteruitgang in kaart te brengen&lt;br&gt;Na iedere afname wordt de deelnemer gevraagd een (zelf)reflectie in te vullen. (dit geeft de psycholoog handvatten om de afname te beoordelen)&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="890" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-59" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-55" target="fw9HSEvNo0UgBsvPUFzQ-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="fw9HSEvNo0UgBsvPUFzQ-55" target="fw9HSEvNo0UgBsvPUFzQ-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-55" value="reflectie&lt;div&gt;vragenlijst&lt;/div&gt;&lt;div&gt;(/quest/reflectie.aspx&lt;/div&gt;&lt;div&gt;/quert/refelctievervolg.aspx)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="750" y="290" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-57" value="reflectie" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fw9HSEvNo0UgBsvPUFzQ-58" value="reflectievervolg" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1000" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="DOYfjKFALxirjzDvESxf" name="Pagina-2">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="BWWfgChdcXVdU3S1fiqL-2" value="&lt;b&gt;Admin&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="48" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BWWfgChdcXVdU3S1fiqL-3" value="&lt;b&gt;Organisaties&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Binnen ddo kunnen we meerdere organisaties aanmaken. Robert Heinst is een organisatie en zo kunnen er meer zijn.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Alleen de admin kan een organisatie aanmaken&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Klanten&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Een organisatie kan één of meerdere klanten hebben waarvoor één of meerdere afnames per deelnemer gedaan kunnen worden&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- naw van de organisatie invullen&lt;/div&gt;&lt;div&gt;- contactpersoon invullen&lt;/div&gt;&lt;div&gt;- account tbv contactpersoon (de contactpersoon kan de antwoorden op de vragen via het dashboard inzien, het is eigenlijk &quot;het hulpje&quot;&lt;/div&gt;&lt;div&gt;van de psycholoog)&lt;/div&gt;&lt;div&gt;&lt;i&gt;Alleen de admin kan een klant bij een organisatie aanmaken&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Afname&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Een afname is de lijst met vragen en de reflectie die op een moment (datum) start bij een klant van een organisatie.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- Kies een logische&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;naam: &quot;afname 1 2024&quot; oid.&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kies de enquete (is er nu nog maar 1)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kies een status&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- Kies een reflectielijst&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;- opslaan&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;- maximaal 4 aanvullende open (textveld)&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Alleen de admin kan een klant bij een afname aanmaken / toevoegen&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Deelnemers&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Een deelnemer is gekoppeld aan de klant van de organisatie. Bij het toevoegen van een deelnemer wordt &lt;b&gt;ALLEEN &lt;/b&gt;het mailadres gevraagd.&lt;/div&gt;&lt;div&gt;Dit stelt de gebruiker in de gelegenheid om via een gmail adres de afnamen anoniem in te vullen.&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Als de deelnemer is toegevoegd wordt automatisch een mail naar het adres gestuurd met account gegevens. Bij de eerste keer inloggen moet&lt;/div&gt;&lt;div&gt;de deelnemer een nieuw password maken en wat aanvullende gegevens opgeven. (geslacht, geboortedatum, eventueel de afdeling)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Per afname worden handmatig deelnemers gekoppeld. Er kunnen deelnemers uit dienst zijn, er kunnen nieuwe medewerkers zijn die&lt;/div&gt;&lt;div&gt;bij een volgende afname als deelnemer geintroduceerd worden.&lt;/div&gt;&lt;div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Alleen de admin kan een klant bij een afname aanmaken / toevoegen&lt;/i&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;deelnemers koppelen: organisatie ==&amp;gt; klanten ==&amp;gt; deelnemers: vink per deelnemer de afname aan.&lt;/div&gt;&lt;div&gt;nieuwe deelnemer:&amp;nbsp; &amp;nbsp; &amp;nbsp; organisatie ==&amp;gt; klanten ==&amp;gt; afnames ==&amp;gt; betreffende afname: &quot;nieuwe deelnemer&quot; (email adres invullen en &quot;verwerk&quot;)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In dit laatste scherm kun je&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- per deelnemer op het &quot;potlood&quot; klikken en de (niet / wel) ingevulde vragen zien.&lt;/div&gt;&lt;div&gt;- per deelnemer het dashboard zien&lt;/div&gt;&lt;div&gt;- per deelnemer de reflectie vragen zien&lt;/div&gt;&lt;div&gt;- geboortedatum, geslacht, eventueel de afdeling&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;Deze laatste opties kunnen ook door het klantaccount gedaan worden (hulpje van de psycholoog)&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;i&gt;&lt;br&gt;&lt;/i&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Algemeen&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;De menu structuur is nog niet goed account gevoelig geprogrammeerd. Dit ivm met verdere ontwikkeling. Het verdient de nodige aandacht&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="90" width="780" height="880" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="c3cmemy1LTYtuEsPGXgs" name="Pagina-3">
+    <mxGraphModel dx="2074" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DMtMLFsJW2FKtaw7G2V4-1" value="&lt;b&gt;Questions&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="30" y="40" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="DMtMLFsJW2FKtaw7G2V4-2" value="De vragen zijn in groepen ingedeeld (Vragen groepen). dit zie je terug in de interface en in het dashboard&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Per vraag kun je aangeven hoe te beantwoorden:&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- waar / niet waar&lt;/div&gt;&lt;div&gt;- options&lt;/div&gt;&lt;div&gt;- meerkeuze vraag (in ontwikkeling, er is nog geen table met antwoordmogelijkheden per vraag en de daaraan gekoppelde meetwaarden&lt;/div&gt;&lt;div&gt;- open vraag&amp;nbsp;&lt;/div&gt;&lt;div&gt;- etc&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- &lt;i&gt;signaal vraag&lt;/i&gt; (kritieke vragen waarmee de psycholoog / leiding iets moet doen, in het dashboard apart zichtbaar)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;- &lt;i&gt;recode&lt;/i&gt; (geeft aan dat het antwoord eigenlijk omgedraaid moet worden. De vraag is &quot;soft&quot; te interpreteren als antwoord op andere vragen&lt;/div&gt;&lt;div&gt;in de lijst. Voor psycholoog is dit een verklaring voor overige vragen. Voor uitleg hierover verwijs ik je naar A. Bentsink, de psycholoog&amp;nbsp;&lt;/div&gt;&lt;div&gt;in kwestie)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="65" width="760" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="DMtMLFsJW2FKtaw7G2V4-3" value="&lt;b&gt;Techniek&lt;/b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;De applicatie is opgebouwd in dotnet framework 4.8&amp;nbsp; met aspx pages. We maken gebruik van session variabelen. Dit heeft als nadeel dat&amp;nbsp;&lt;/div&gt;&lt;div&gt;de app niet op een shared windows server kan draaien. Bij het switchen van webserver (door drukte) worden session variabelen niet&amp;nbsp;&lt;/div&gt;&lt;div&gt;meegenomen&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Oplossing is te werken met restapi en bijvoorbeeld angular / reactie / vue oid. De sessies kunnen dan op de client in localstorage bewaard&amp;nbsp;&lt;/div&gt;&lt;div&gt;worden.&amp;nbsp;&lt;span style=&quot;background-color: initial;&quot;&gt;Reden voor keuze aspx is puur omdat we volgens waterval ontwikkel methode werken en op het moment van start ontwikkeling de&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;kennis&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;van dotnet8 / angular onvoldoende was om &quot;even snel&quot; een resultaat te krijgen&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;De accounts worden nog niet encrypted opgeslagen. Dit verdient de nodige aandacht.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;De beheer pages staan in /beheer&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;De deelnemer pages staan in /quest&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Je ziet in de code dat er een start gemaakt is met restapi (owin ipv jwt. Dit is niet werkzaam en kan verwijderd worden om naar eigen inzicht&amp;nbsp;&lt;/div&gt;&lt;div&gt;op te zetten)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;We gebruiken voor database toegang linqtosql (in visual studio onder tools ==&amp;gt; get tools and features)&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Je ziet in de root een page keepalive.aspx. Deze wordt /quest/master om de 30000 milliseconden aangeroepen. Dit zorgt ervoor dat een&amp;nbsp;&lt;/div&gt;&lt;div&gt;gebruikers sessie niet verloopt waardoor de gebruiker niet opnieuw hoeft in te loggen.&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Verder svp feedback of je voldoende informatie hebt om dit over te nemen.&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="370" width="770" height="420" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
